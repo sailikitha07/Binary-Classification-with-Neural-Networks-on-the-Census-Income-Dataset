@@ -222,10 +222,13 @@ print("\nProgram executed successfully!")
 ### OUTPUT :
 ##### Training and Testing records
 <img width="217" height="40" alt="image" src="https://github.com/user-attachments/assets/4ce88a66-1ef9-41dd-a3e7-0c30dcb5deef" />
+
 ##### Train the model for 300 epochs
 <img width="263" height="112" alt="image" src="https://github.com/user-attachments/assets/670232d1-001a-4ee9-8cf6-92ce0b97337e" />
+
 ##### Evaluation
 <img width="207" height="66" alt="image" src="https://github.com/user-attachments/assets/d0972584-9c73-443b-bbc8-edeaab322af5" />
+
 ##### 
 <img width="262" height="32" alt="image" src="https://github.com/user-attachments/assets/47393e35-65b7-4942-b6f6-8514f76a96e5" />
 
