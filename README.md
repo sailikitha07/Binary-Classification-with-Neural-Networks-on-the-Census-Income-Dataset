@@ -218,16 +218,17 @@ def predict_income(new_data):
 
 print("\nProgram executed successfully!")
 ```
+
 ### OUTPUT :
 
 <img width="217" height="40" alt="image" src="https://github.com/user-attachments/assets/4ce88a66-1ef9-41dd-a3e7-0c30dcb5deef" />
-<h>
+
 <img width="263" height="112" alt="image" src="https://github.com/user-attachments/assets/670232d1-001a-4ee9-8cf6-92ce0b97337e" />
-<\h>
+
 <img width="207" height="66" alt="image" src="https://github.com/user-attachments/assets/d0972584-9c73-443b-bbc8-edeaab322af5" />
-<h>
+
 <img width="262" height="32" alt="image" src="https://github.com/user-attachments/assets/47393e35-65b7-4942-b6f6-8514f76a96e5" />
-<\h>
+
 
 ### RESULT :
 The neural network model was successfully trained using the Census Income Dataset to classify income into two categories. The model was evaluated using test loss and accuracy.
